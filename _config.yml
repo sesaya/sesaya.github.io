@@ -22,11 +22,11 @@ repository               : "sesaya/sesaya.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "/images/ABDULMay32023Portrait.jpg"
+  name             : "Abdul Sesay"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "I am an Assistant Professor of Management Information Systems at the Terry College of Business, University"
+  location         : "Athens, GA"
   employer         : "University of Georgia"
   uri              : # URL
   email            : "abdul01sesay@gmail.com" 
