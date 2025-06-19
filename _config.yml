@@ -22,7 +22,7 @@ repository               : "sesaya/sesaya.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/ABDULMay32023Portrait.jpg"
+  avatar           : "/images/asPortrait.png"
   name             : "Abdul Sesay"
   pronouns         : # example: "she/her"  
   bio              : "I am an Assistant Professor of Management Information Systems at the Terry College of Business, University"
