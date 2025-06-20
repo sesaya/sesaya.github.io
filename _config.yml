@@ -11,9 +11,9 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Abdul Sesay"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : "Assistant Professor, MIS Department, Terry College of Business"
-url                      : "https://sesaya.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+name                     : "Abdul Sesay"
+description              : "Abdul's Personal Website"
+url                      : "https://sesaya.github.io/" 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sesaya/sesaya.github.io"
 
@@ -23,16 +23,16 @@ repository               : "sesaya/sesaya.github.io"
 author:
   # Biographic information
   avatar           : "./images/asPortrait.png"
-  name             : "Abdul Sesay"
+  name             : "Abdul Sesay, Ph.D."
   pronouns         : # example: "she/her"  
-  bio              : "Assistant Professor, Management Information Systems, Terry College of Business, University of Georgia"
+  bio              : "Assistant Professor, Management Information Systems, Terry College of Business"
   location         : "Athens, GA"
   employer         : "University of Georgia"
-  uri              : # URL
+  uri              : 
   email            : "abdul01sesay@gmail.com" 
 
   # Academic websites
-  academia         : # URL
+  academia         : "https://www.terry.uga.edu/directory/abdul-sesay/"
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
