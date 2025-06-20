@@ -8,8 +8,8 @@
 
 # Theme Settings
 #
-theme                    : "minimal-mistakes-jekyll"
-
+# theme                  : "minimal-mistakes-jekyll"
+# remote_theme           : "mmistakes/minimal-mistakes"
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
