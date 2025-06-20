@@ -1,8 +1,8 @@
 ![Abdul Sesay](images/asPortrait.png "My Home on the Web")
 # Abdul Sesay, Ph.D.
 **Assistant Professor,**
-* Management Information Systems, Terry College of Business,
- University of Georgia
+Management Information Systems, Terry College of Business,
+University of Georgia
 
 # Getting Started
 
