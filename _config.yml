@@ -15,14 +15,14 @@ name                     : "Abdul Sesay"
 description              : "Abdul's Personal Website"
 url                      : "https://sesaya.github.io/" 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sesaya/sesaya.github.io"
+repository               : ""
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./images/asPortrait.png"
+  avatar           : "images/asPortrait.png"
   name             : "Abdul Sesay, Ph.D."
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor, Management Information Systems, Terry College of Business"
