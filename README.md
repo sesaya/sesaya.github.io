@@ -1,4 +1,4 @@
-![Abdul Sesay](images/asPortrait.png "My Home on the Web")
+![Abdul Sesay](images/asPortrait.png "My Personal Website")
 # Abdul Sesay, Ph.D.
 **Assistant Professor,**
 Management Information Systems, Terry College of Business,
