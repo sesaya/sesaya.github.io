@@ -1,6 +1,7 @@
 ---
 title: "Bureaucratizing the Clan: Impact of Technology Affordances on Control"
 collection: publications
+category: manuscripts
 permalink: /publication/sesay2024-bureaucratizing-clan/
 date: 2024-01-01
 venue: "Journal of Management Information Systems"
