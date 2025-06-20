@@ -22,10 +22,10 @@ repository               : "sesaya/sesaya.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://www.sesaya.github.io/sesaya/sesaya/master/images/asPortrait.png"
+  avatar           : "images/asPortrait.png"
   name             : "Abdul Sesay"
   pronouns         : # example: "she/her"  
-  bio              : "I am an Assistant Professor of MIS at the Terry College of Business, University of Georgia"
+  bio              : "Assistant Professor, Management Information Systems, Terry College of Business, University of Georgia"
   location         : "Athens, GA"
   employer         : "University of Georgia"
   uri              : # URL
