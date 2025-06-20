@@ -1,9 +1,9 @@
 ---
 title: "Emergence of IT Implementation Consequences in Organizations: An Assemblage Approach"
 collection: publications
-category: Journals
+category: Journal Papers
 permalink: /publication/sesay2025-emergence-it/
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
+excerpt: ''
 date: 2025-06-01
 venue: "MIS Quarterly"
 paperurl: ""
