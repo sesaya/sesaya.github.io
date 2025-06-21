@@ -6,13 +6,13 @@ University of Georgia
 
 # Getting Started
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Click the "Use this template" button in the top right.
-1. On the "New repository" page, enter your public repository name as "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and add your content.
-1. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+Dr. Sesay is an assistant professor in the Management Information Systems Department at the Terry College of Business, University of Georgia. He obtained his Bachelors and Masters of Architecture from Tsinghua University, Beijing, China, Master of Community Planning (MCP) from the University of Cincinnati, and a Master of Science (MS) and Ph.D. in Computer Science and Information Systems from the University of Colorado Denver. His research interests are in Human-Machine Symbiosis, Information Technology Governance, Digital Transformation, Technology Affordance-Based Control, and IT for Development (IT4D). His research has been published or forthcoming in MIS Quarterly, Journal of Management Information Systems, Policing and Society, and various conference proceedings.
+
+Prior to joining academia, Dr. Sesay was an International Business Development Representative for the City of Denver, Office of Economic Development, where he developed and managed programs to promote exports, attract foreign investment, increase connectivity, and make Denver a more internationally competitive and welcoming city. He hosted trade and investment delegations from China, Dubai, Germany, U.K., Japan, and Mexico, as well as civic groups from Kenya, Zambia, China, Mongolia, Oman, Malaysia, and young African leaders from the Mandela Washington Fellowship.
+
+Dr. Sesay provided staffing and protocol assistance to the mayor’s office and was the staff liaison for the Mayor’s International Advisory Council. Prior to that, Dr. Sesay was a housing and urban development consultant, providing market advice and feasibility studies to developers, tax credit investors, and syndicators of affordable housing and community development projects throughout the United States.  He served as a member of the Board of Directors for Denver Sister Cities International, Denver Coalition for Integration, and the Denver World Trade Center. In 2012 and 2016, he was designated by the U.S. Secretary of Commerce as a member of the Rocky Mountain District Export Council.
+
+Dr. Sesay is fluent in Mandarin and French.
 
 See more info at https://academicpages.github.io/
 
