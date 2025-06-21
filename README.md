@@ -4,13 +4,6 @@
 Management Information Systems, Terry College of Business,
 University of Georgia
 
-# Education
-1. PhD, Computer Science and Information Systems, University of Colorado Denver, 2018
-1. MS, Information Systems, University of Colorado Denver, 2001
-1. Master of Community Planning, University of Cincinnati, 1997
-1. Master of Architecture, Tsinghua University, 1995
-1. Bachelor of Architecture, Tsinghua University, 1993
-
 # Bio
 
 Dr. Sesay is an assistant professor in the Management Information Systems Department at the Terry College of Business, University of Georgia. He obtained his Bachelors and Masters of Architecture from Tsinghua University, Beijing, China, Master of Community Planning (MCP) from the University of Cincinnati, and a Master of Science (MS) and Ph.D. in Computer Science and Information Systems from the University of Colorado Denver. His research interests are in Human-Machine Symbiosis, Information Technology Governance, Digital Transformation, Technology Affordance-Based Control, and IT for Development (IT4D). His research has been published or forthcoming in MIS Quarterly, Journal of Management Information Systems, Policing and Society, and various conference proceedings.
