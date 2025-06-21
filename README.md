@@ -14,8 +14,6 @@ Dr. Sesay provided staffing and protocol assistance to the mayor’s office and 
 
 Dr. Sesay is fluent in Mandarin and French.
 
-See more info at https://academicpages.github.io/
-
 ## Research Areas
 
 1. Human-Machine Symbiosis
@@ -28,7 +26,7 @@ See more info at https://academicpages.github.io/
 
 
 
----
+
 <div align="center">
     
 ![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
