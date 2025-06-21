@@ -11,16 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+*1. PhD, Computer Science and Information Systems, University of Colorado Denver, 2018
+*1. MS, Information Systems, University of Colorado Denver, 2001
+*1. Master of Community Planning, University of Cincinnati, 1997
+*1. Master of Architecture, Tsinghua University, 1995
+*1. Bachelor of Architecture, Tsinghua University, 1993
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* August 2018 - Present : Assistant Professor
+  * Department of Management Information Systems,
+  * Terry College of Business, University of Georgia
+  
 
 * Fall 2015: Research Assistant
   * GitHub University
