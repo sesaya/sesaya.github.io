@@ -1,7 +1,7 @@
 # Academic Pages
 **Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
-![Academic Pages template example](images/homepage.png "Academic Pages template example")
+![Academic Pages template example](images/asPortrait.png "Academic Pages template example")
 # Abdul Sesay, Ph.D.
 **Assistant Professor,**
 Management Information Systems, Terry College of Business,
