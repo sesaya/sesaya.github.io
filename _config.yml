@@ -26,7 +26,7 @@ repository               : ""
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/asPortrait.png"
+  avatar           : "asPortrait.png"
   name             : "Abdul Sesay, Ph.D."
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor, Management Information Systems, Terry College of Business"
