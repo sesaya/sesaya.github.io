@@ -4,7 +4,14 @@
 Management Information Systems, Terry College of Business,
 University of Georgia
 
-# Getting Started
+# Education
+1. PhD, Computer Science and Information Systems, University of Colorado Denver, 2018
+1. MS, Information Systems, University of Colorado Denver, 2001
+1. Master of Community Planning, University of Cincinnati, 1997
+1. Master of Architecture, Tsinghua University, 1995
+1. Bachelor of Architecture, Tsinghua University, 1993
+
+# Bio
 
 Dr. Sesay is an assistant professor in the Management Information Systems Department at the Terry College of Business, University of Georgia. He obtained his Bachelors and Masters of Architecture from Tsinghua University, Beijing, China, Master of Community Planning (MCP) from the University of Cincinnati, and a Master of Science (MS) and Ph.D. in Computer Science and Information Systems from the University of Colorado Denver. His research interests are in Human-Machine Symbiosis, Information Technology Governance, Digital Transformation, Technology Affordance-Based Control, and IT for Development (IT4D). His research has been published or forthcoming in MIS Quarterly, Journal of Management Information Systems, Policing and Society, and various conference proceedings.
 
@@ -16,11 +23,15 @@ Dr. Sesay is fluent in Mandarin and French.
 
 See more info at https://academicpages.github.io/
 
-## Running locally
+## Research Areas
 
-When you are initially working on your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
-
-1. Clone the repository and made updates as detailed above.
+1. Human-Machine Symbiosis
+2. Organization Theory and Research Methods
+3. IT Governance and Sourcing
+4. Technology Affordance-based Organization Control
+5. Digital Transformation in Organizations & Digital Government
+6. Information Technology for Development (IT4D)
+7. Data Modeling and Business Analytics
 
 ### Using a different IDE
 1. Make sure you have ruby-dev, bundler, and nodejs installed
