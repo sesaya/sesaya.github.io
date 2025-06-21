@@ -1,3 +1,4 @@
+# Welcome to My Personal Website
 ![Abdul Sesay](images/asPortrait.png "My Personal Website")
 # Abdul Sesay, Ph.D.
 **Assistant Professor,**
