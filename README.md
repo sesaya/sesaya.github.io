@@ -1,12 +1,9 @@
-
-# Abdul Sesay, Ph.D.
-**Assistant Professor,**
-Management Information Systems, Terry College of Business,
-University of Georgia
+#
+# 
 
 # Bio
 
-Dr. Sesay is an assistant professor in the Management Information Systems Department at the Terry College of Business, University of Georgia. He obtained his Bachelors and Masters of Architecture from Tsinghua University, Beijing, China, Master of Community Planning (MCP) from the University of Cincinnati, and a Master of Science (MS) and Ph.D. in Computer Science and Information Systems from the University of Colorado Denver. His research interests are in Human-Machine Symbiosis, Information Technology Governance, Digital Transformation, Technology Affordance-Based Control, and IT for Development (IT4D). His research has been published or forthcoming in MIS Quarterly, Journal of Management Information Systems, Policing and Society, and various conference proceedings.
+Dr. Sesay is an assistant professor in the Management Information Systems Department at the Terry College of Business, University of Georgia. He obtained his Bachelors and Masters of Architecture from Tsinghua University, Beijing, China, Master of Community Planning (MCP) from the University of Cincinnati, a Master of Science (MS) in Information Systems, and a Ph.D. in Computer Science and Information Systems from the University of Colorado Denver. His research interests are in Human-Machine Assemblages, Information Technology Governance, Digital Transformation, Technology Affordance-Based Control, and IT for Development (IT4D). His research has been published or forthcoming in MIS Quarterly, Journal of Management Information Systems, Policing and Society, and various conference proceedings.
 
 Prior to joining academia, Dr. Sesay was an International Business Development Representative for the City of Denver, Office of Economic Development, where he developed and managed programs to promote exports, attract foreign investment, increase connectivity, and make Denver a more internationally competitive and welcoming city. He hosted trade and investment delegations from China, Dubai, Germany, U.K., Japan, and Mexico, as well as civic groups from Kenya, Zambia, China, Mongolia, Oman, Malaysia, and young African leaders from the Mandela Washington Fellowship.
 
@@ -16,24 +13,17 @@ Dr. Sesay is fluent in Mandarin and French.
 
 ## Research Areas
 
-1. Human-Machine Symbiosis
-2. Organization Theory and Research Methods
-3. IT Governance and Sourcing
-4. Technology Affordance-based Organization Control
-5. Digital Transformation in Organizations & Digital Government
-6. Information Technology for Development (IT4D)
-7. Data Modeling and Business Analytics
+* Human-Machine Assemblages
+* Organization Theory and Research Methods
+* IT Governance and Sourcing
+* Technology Affordance-based Organization Control
+* Digital Transformation in Organizations & Digital Government
+* Information Technology for Development (IT4D)
+* Data Modeling and Business Analytics
 
 
 
 
 <div align="center">
     
-![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
-[![GitHub contributors](https://img.shields.io/github/contributors/academicpages/academicpages.github.io.svg)](https://github.com/academicpages/academicpages.github.io/graphs/contributors)
-[![GitHub release](https://img.shields.io/github/v/release/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/releases/latest)
-[![GitHub license](https://img.shields.io/github/license/academicpages/academicpages.github.io?color=blue)](https://github.com/academicpages/academicpages.github.io/blob/master/LICENSE)
-
-[![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io)
-[![GitHub forks](https://img.shields.io/github/forks/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/fork)
 </div>
