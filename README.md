@@ -1,5 +1,5 @@
-#
-# 
+
+ 
 
 # Bio
 
@@ -9,7 +9,7 @@ Prior to joining academia, Dr. Sesay was an International Business Development R
 
 Dr. Sesay provided staffing and protocol assistance to the mayor’s office and was the staff liaison for the Mayor’s International Advisory Council. Prior to that, Dr. Sesay was a housing and urban development consultant, providing market advice and feasibility studies to developers, tax credit investors, and syndicators of affordable housing and community development projects throughout the United States.  He served as a member of the Board of Directors for Denver Sister Cities International, Denver Coalition for Integration, and the Denver World Trade Center. In 2012 and 2016, he was designated by the U.S. Secretary of Commerce as a member of the Rocky Mountain District Export Council.
 
-Dr. Sesay is fluent in Mandarin and French.
+Dr. Sesay is fluent in Chinese and French.
 
 ## Research Areas
 
