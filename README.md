@@ -1,4 +1,4 @@
-
+![Abdul Sesay, Ph.D.](images/NewFacTourCropped.jpg "New Faculty Tour at the Okefenokee Swamp")
  
 
 # Welcome!
