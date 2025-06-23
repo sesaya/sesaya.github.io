@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-2018 - Present: Assistant Professor, Management Information Systems
+2018 - Present: Assistant Professor, Management Information Systems,
 Terry College of Business, University of Georgia
 
 Please access my full CV here:
