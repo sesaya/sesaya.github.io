@@ -1,4 +1,6 @@
+# Photo
 
+![Abdul Sesay PhD](images/GAStateCapitolCropped.JPG "New Faculty Tour at the Okefenokee Swamp")
  
 
 # Welcome!
