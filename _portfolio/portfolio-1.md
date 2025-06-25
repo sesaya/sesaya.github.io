@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/GAStateCapitolCropped.jpg'>"
+title: "Awards and Recognition"
+excerpt: "Recognition at the Georgia State Capitol<br/><img src='/images/GAStateCapitolCropped.jpg'>"
 collection: portfolio
 ---
 
