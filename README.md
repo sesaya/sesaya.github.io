@@ -1,6 +1,6 @@
  
 
-# Welcome!
+![Abdul Sesay PhD](images/FlashPagePortraitGreyTxt.png "Abdul Sesay")
 
 I am an assistant professor in the Management Information Systems Department at the Terry College of Business, University of Georgia. I obtained my Bachelors and Masters of Architecture from Tsinghua University, Beijing, China, Master of Community Planning (MCP) from the University of Cincinnati, a Master of Science (MS) in Information Systems, and a Ph.D. in Computer Science and Information Systems from the University of Colorado Denver. My research interests are in Human-Machine Assemblages, Information Technology Governance, Digital Transformation, Technology Affordance-Based Control, and IT for Development (IT4D). My research has been published in top-tier journals, including MIS Quarterly, Journal of Management Information Systems, Policing and Society, and various conference proceedings.
 
