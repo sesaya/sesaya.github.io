@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Home
+title: Abdul Sesay, Ph.D.
 author_profile: false
 ---
 
